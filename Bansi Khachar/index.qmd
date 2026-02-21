@@ -21,7 +21,7 @@ editor: visual
 ---
 
 ::: {.columns vertical-align="center"}
-# Hi, I’m [Bansi Kachar]{style="color:#000000; font-weight:700;"}
+# Hi, I’m Bansi Khachar
 
 I’m an analyst focused on digital marketing and data analytics. I turn raw data into clear, actionable insights—mixing technical skill with creative strategy to produce results.
 :::
