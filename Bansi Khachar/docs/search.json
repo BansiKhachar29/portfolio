@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Bansi Kachar",
+    "section": "",
+    "text": "I’m an analyst focused on digital marketing and data analytics. I turn raw data into clear, actionable insights—mixing technical skill with creative strategy to produce results."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Bansi Khachar",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Bansi Kachar",
+    "section": "About Me",
+    "text": "About Me\nI’m pursuing an M.S. in Digital Marketing at Cal Poly Pomona (expected May 2026). I work across R, Python, and web analytics—building dashboards, teaching hands-on workshops, and creating reproducible work with Quarto to tell clear data stories. :contentReferenceoaicite:0"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Hi, I’m Bansi Kachar",
+    "section": "What I Do",
+    "text": "What I Do\n\nData Analysis & Visualization: Build interactive, informative visuals in R and Python.\nDigital Marketing Strategy: Use web analytics, SEO, and campaign insights to improve performance.\nWorkshops & Training: Teach practical, hands-on sessions for students and professionals.\nReproducible Reporting: Create integrated reports and sites with Quarto. :contentReferenceoaicite:1"
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Bansi Kachar",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nI’m always open to collaborating and sharing ideas—reach out or connect with me on LinkedIn.\n\nWelcome to my portfolio—where data meets creativity and reproducibility supports innovation."
+  }
+]

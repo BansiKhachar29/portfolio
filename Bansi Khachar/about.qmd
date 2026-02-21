@@ -1,0 +1,46 @@
+---
+project:
+  type: website
+
+website:
+  title: "Bansi Khachar"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+:: {.columns vertical-align="center"} ::: {.column width="60%"} \# Hi, I’m Bansi Khachar
+
+I’m an analyst focused on digital marketing and data analytics. I turn raw data into clear, actionable insights—mixing technical skill with creative strategy to produce results. :::
+
+![](images/IMG_7286.jpg):::
+
+## About Me
+
+I’m pursuing an M.S. in Digital Marketing at Cal Poly Pomona (expected May 2026). I work across R, Python, and web analytics—building dashboards, teaching hands-on workshops, and creating reproducible work with Quarto to tell clear data stories. :contentReference[oaicite:0]{index="0"}
+
+## What I Do
+
+-   **Data Analysis & Visualization:** Build interactive, informative visuals in R and Python.
+-   **Digital Marketing Strategy:** Use web analytics, SEO, and campaign insights to improve performance.
+-   **Workshops & Training:** Teach practical, hands-on sessions for students and professionals.
+-   **Reproducible Reporting:** Create integrated reports and sites with Quarto. :contentReference[oaicite:1]{index="1"}
+
+## Let’s Connect
+
+I’m always open to collaborating and sharing ideas—reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/bansikhachar29/). :contentReference[oaicite:2]{index="2"}
+
+------------------------------------------------------------------------
+
+Welcome to my portfolio—where data meets creativity and reproducibility supports innovation. :contentReference[oaicite:3]{index="3"}
